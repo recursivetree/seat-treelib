@@ -1,7 +1,7 @@
 {
   "name": "recursivetree/seat-treelib",
   "description": "A library for seat",
-  "license": "MIT",
+  "license": "GPL-2.0",
   "authors": [
     {
       "name": "recursivetree",
